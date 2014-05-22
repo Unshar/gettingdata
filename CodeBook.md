@@ -3,6 +3,7 @@ CodeBook [run_analysis.R]
 General Notes
 
 [1] Original Data set (source): https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 [2] Refer to file "runanalysis diagram.png" for a high-level visual representation of this CodeBook.
 
 The following descriptions of the 83 variables in complete data set created by the run_analysis.R script:
