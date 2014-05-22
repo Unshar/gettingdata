@@ -8,24 +8,20 @@ The run_analyis.R, referred here as "the script", is the main deliverable for th
 The scrip does the following:
 
 1. Merges the training files to create one training data set.
-
 2. Merges the test files to create one test data set.
-
 3. Merges the training and test data sets to create one complete data set.
-
 4. Extracts only the measurements on the mean and standard deviation for each measureme.
-
 5. Uses descriptive activity names to name the activities in the data set
-
 6. Appropriately labels the data set with descriptive activity names.†
-
 7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.†
+
 
 2. GENERAL NOTES
 
 - The "CodeBook.md" file describes the variables, the data, and any transformations and work performed to clean up the data;
 
 - The "runanalysis diagram.png" is a high-level visual representation of the CodeBook mentioned above. 
+
 
 3. RUNNING THE SCRIPT
 
