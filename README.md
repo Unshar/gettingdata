@@ -6,12 +6,19 @@ version 1 20/05/2014
 The run_analyis.R, referred here as "the script", is the main deliverable for the Getting and Cleaning Data Course Project, which represents 40% of the final grade. This course project will be evaluated and graded through peer assessment.
 
 The scrip does the following:
+
 1. Merges the training files to create one training data set.
+
 2. Merges the test files to create one test data set.
+
 3. Merges the training and test data sets to create one complete data set.
-4. Extracts only the measurements on the mean and standard deviation for each measurement.†
+
+4. Extracts only the measurements on the mean and standard deviation for each measureme.
+
 5. Uses descriptive activity names to name the activities in the data set
+
 6. Appropriately labels the data set with descriptive activity names.†
+
 7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.†
 
 2. GENERAL NOTES
