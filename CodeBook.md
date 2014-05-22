@@ -24,6 +24,7 @@ datasetname:	Identifies the initial data set source
 		          - Test set
     
 The rest of the variables are the same as in the original data set[1], with the caveat that the second processed data set lists averages over all observations in a group:
+
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
